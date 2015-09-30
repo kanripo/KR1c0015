@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩經集傳
-#+DATE: 2015-09-23 09:36:36
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:04:42.906471
+#+PROPERTY: ID KR1c0015
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1c0015_WYG_000-1a>¶
 欽定四庫全書　　　　經部三¶
 　詩集傳　　　　　　　詩類¶
@@ -77,6 +79,7 @@
 <pb:KR1c0015_WYG_000-5a>¶
 　　　　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1c0015_WYG_000-6a>¶
 詩經集傳原序¶
 或有問於予曰詩何為而作也予應之曰人生而静天¶
@@ -124,4 +127,3 @@
 者唯唯而退余時方輯詩傳因悉次是語以冠其篇云¶
 <pb:KR1c0015_WYG_000-8b>¶
 淳熈四年丁酉冬十月戊子新安朱熹序¶
-
